@@ -1,0 +1,44 @@
+---
+title: About Jupyter Notebook
+jupyter: python3
+---
+
+Lorem ipsum odor amet, consectetuer adipiscing elit. Aliquam orci suspendisse class molestie, urna ornare id sit.
+
+## Section 1 Python packages
+
+Lorem ipsum odor amet, consectetuer adipiscing elit. Sed nunc class diam torquent ultrices eleifend ullamcorper molestie? Sodales suspendisse efficitur cubilia mi magna. Porttitor luctus porttitor vel; cubilia in cursus diam malesuada cursus. Nostra vel massa curabitur blandit venenatis ridiculus.
+
+- Package 1: numpy
+- Package 2: pandas
+- Package 3: matplotlib
+
+## Section 2 About .ipynb
+
+Lorem ipsum odor amet, consectetuer adipiscing elit. Sodales nulla volutpat tristique ut fusce congue magna. Facilisi enim lobortis class tortor conubia habitant potenti. Augue natoque ridiculus suscipit urna scelerisque.
+
+### Section 2.1 Add Code Cell
+
+Add a `python code cell` with an output plot:
+
+
+```{python}
+import matplotlib.pyplot as plt
+import numpy as np
+
+x = np.random.rand(30)
+y = np.random.rand(30)
+
+plt.figure(figsize=(8, 6))
+plt.scatter(x, y, color='red', marker='o', s=100)
+plt.title('Scatter Plot', fontsize = 18)
+plt.xlabel('X-axis', fontsize = 14)
+plt.ylabel('Y-axis', fontsize = 14)
+plt.grid(True)
+plt.show()
+```
+
+### Section 2.2 Add Markdown Cell
+
+Lorem ipsum odor amet, consectetuer adipiscing elit. Faucibus senectus habitant aliquam; dis quis nisi. Per fames pellentesque fames convallis iaculis phasellus vitae aenean. Purus fames egestas eget litora varius commodo.
+

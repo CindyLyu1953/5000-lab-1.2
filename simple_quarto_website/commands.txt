@@ -1,0 +1,30 @@
+(base) lyukexin@lvkexindeMacBook-Pro-2 simple_quarto_website % rm styles.css
+(base) lyukexin@lvkexindeMacBook-Pro-2 simple_quarto_website % mkdir images
+(base) lyukexin@lvkexindeMacBook-Pro-2 simple_quarto_website % mkdir slides
+(base) lyukexin@lvkexindeMacBook-Pro-2 simple_quarto_website % quarto convert about.qmd
+Converted to about.ipynb
+(base) lyukexin@lvkexindeMacBook-Pro-2 simple_quarto_website % ls
+_quarto.yml	about.qmd	index.qmd	slides
+about.ipynb	images		reference.bib
+(base) lyukexin@lvkexindeMacBook-Pro-2 simple_quarto_website % more reference.bib
+@article{hulo2006prosite,
+  title={The PROSITE database},
+  author={Hulo, Nicolas and Bairoch, Amos and Bulliard, Virginie and Cerutti, Lorenzo and De Castro, Edouard and Langendijk-Genevaux, Petra S and Pagni, Marco and Sigrist, Christian JA},
+  journal={Nucleic acids research},
+  volume={34},
+  number={suppl\_1},
+  pages={D227--D230},
+  year={2006},
+  publisher={Oxford University Press}
+}
+
+@article{gaulton2017chembl,
+  title={The ChEMBL database in 2017},
+  author={Gaulton, Anna and Hersey, Anne and Nowotka, Micha{\l} and Bento, A Patricia and Chambers, Jon and Mendez, David and Mutowo, Prudence and Atkinson, Francis and Bellis, Louisa J and Cibri{\'a}n-Uhalte, Elena and others},
+  journal={Nucleic acids research},
+  volume={45},
+  number={D1},
+  pages={D945--D954},
+  year={2017},
+  publisher={Oxford University Press}
+(base) lyukexin@lvkexindeMacBook-Pro-2 simple_quarto_website % 

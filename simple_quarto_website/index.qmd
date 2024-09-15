@@ -1,0 +1,90 @@
+---
+title: "simple_quarto_website"
+bibliography: reference.bib
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+# My Quarto Website
+
+I am Cindy Lyu from DSAN5000. This is my first quarto website.
+
+## Table of Contents
+
+1. [Basic Self Introduction](#section-1-basic-self-introduction)
+2. [My Academic Interest](#section-2-my-academic-interest)
+3. [My Daily Life](#section-3-my-daily-life)
+
+## Section 1 Basic Self Introduction
+
+Lorem ipsum odor amet, consectetuer adipiscing elit. Fusce ad augue suspendisse cubilia fames metus vulputate nisi. Pretium duis porttitor condimentum morbi libero. Dis hendrerit auctor pretium elementum nec cras torquent nam. In curabitur nascetur pharetra dapibus eu hendrerit. Facilisi montes nostra mauris arcu enim facilisi rutrum inceptos risus. Imperdiet taciti malesuada nostra, lectus est lacinia vehicula risus.
+
+### Section 1.1 My Class
+
+1. **DSAN5000**: Data Science and Analytics
+2. **DSAN5100**: Prob Modeling/Stat Computing
+
+###  Section 1.2 My Timetable
+
+| Class          | Time                                   |
+|----------------|----------------------------------------|
+| DSAN5000       | Monday 12:30 - 15:00                   |
+| DSAN5100       | Wednesday 15:30 - 18:00                |
+> I also take DSAN5400.
+
+## Section 2 My Academic Interest
+
+Lorem ipsum odor amet, consectetuer adipiscing elit. Morbi rhoncus facilisi ante nascetur odio fermentum ultrices elit. Platea aliquam efficitur commodo eros mus felis diam pretium fusce. Volutpat posuere inceptos lectus mattis eleifend a potenti sollicitudin. Nullam dignissim fermentum tincidunt litora at sagittis congue euismod commodo. Nostra lacus sed pellentesque habitasse feugiat faucibus tempus mus. Euismod metus efficitur conubia, tortor tempor non. Fringilla rutrum curabitur bibendum cras bibendum ut et. Bibendum fusce dictum eleifend tortor est per dictumst. Habitant vivamus purus ante sed, at proin lacinia imperdiet elit.
+
+### Section 2.1 Interest Fields
+
+- Interest 1: Machine Learning
+- Interest 2: Deep Learning
+- Interest 3: Optimization
+- Interest 4: Database
+
+![Machine Learning](./images/machine_learning.png "Machine Learning")[^1]
+![Deep Learning](./images/deep_learning.png "Deep Learning")[^2]
+
+Here is a reference to **a study of database** [@hulo2006prosite].
+
+### Section 2.2 Math Equations Used for Research
+
+The area of a circle : $A = \pi r^2$.
+
+Mass–energy equivalence :
+$$
+E = mc^2
+$$
+
+## Section 3 My Daily Life
+
+Lorem ipsum odor amet, consectetuer adipiscing elit. Felis et turpis urna gravida tempus, vulputate diam imperdiet. At mi at dignissim mollis; natoque interdum finibus primis.
+
+### Section 3.1 My Hobbies
+
+- **Traveling**: Singapore, Japan, Thailand, UK...
+- **Playing Nintendo Switch**: The Legend of Zelda...
+
+![Watch the video](./images/japan_view.mp4 "View of Japan")[^3]
+
+### Section 3.2 Traveling Routes in Japan
+
+Lorem ipsum odor amet, consectetuer adipiscing elit. Interdum maecenas est molestie condimentum platea viverra tincidunt scelerisque.
+
+Lorem ipsum odor amet, consectetuer adipiscing elit.
+
+```{mermaid}
+graph TD;
+    Tokyo --> Kamakura;
+    Tokyo --> Fujiyama;
+    Tokyo --> Kyoto;
+    Kyoto --> Nara;
+    Kyoto --> Osaka;
+```
+
+[^1]: https://images.app.goo.gl/MNeNFNnC2W74JeoNA
+[^2]: https://images.app.goo.gl/DPbkgKZEvDhyERUs8
+[^3]: https://www.pexels.com/video/an-old-temple-shrine-in-japan-visited-by-tourists-3177175/

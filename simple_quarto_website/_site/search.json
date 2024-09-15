@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Jupyter Notebook",
+    "section": "",
+    "text": "Lorem ipsum odor amet, consectetuer adipiscing elit. Aliquam orci suspendisse class molestie, urna ornare id sit."
+  },
+  {
+    "objectID": "about.html#section-1-python-packages",
+    "href": "about.html#section-1-python-packages",
+    "title": "About Jupyter Notebook",
+    "section": "Section 1 Python packages",
+    "text": "Section 1 Python packages\nLorem ipsum odor amet, consectetuer adipiscing elit. Sed nunc class diam torquent ultrices eleifend ullamcorper molestie? Sodales suspendisse efficitur cubilia mi magna. Porttitor luctus porttitor vel; cubilia in cursus diam malesuada cursus. Nostra vel massa curabitur blandit venenatis ridiculus.\n\nPackage 1: numpy\nPackage 2: pandas\nPackage 3: matplotlib"
+  },
+  {
+    "objectID": "about.html#section-2-about-.ipynb",
+    "href": "about.html#section-2-about-.ipynb",
+    "title": "About Jupyter Notebook",
+    "section": "Section 2 About .ipynb",
+    "text": "Section 2 About .ipynb\nLorem ipsum odor amet, consectetuer adipiscing elit. Sodales nulla volutpat tristique ut fusce congue magna. Facilisi enim lobortis class tortor conubia habitant potenti. Augue natoque ridiculus suscipit urna scelerisque.\n\nSection 2.1 Add Code Cell\nAdd a python code cell with an output plot:\n\nimport matplotlib.pyplot as plt\nimport numpy as np\n\nx = np.random.rand(30)\ny = np.random.rand(30)\n\nplt.figure(figsize=(8, 6))\nplt.scatter(x, y, color='red', marker='o', s=100)\nplt.title('Scatter Plot', fontsize = 18)\nplt.xlabel('X-axis', fontsize = 14)\nplt.ylabel('Y-axis', fontsize = 14)\nplt.grid(True)\nplt.show()\n\n\n\n\n\n\n\n\n\n\nSection 2.2 Add Markdown Cell\nLorem ipsum odor amet, consectetuer adipiscing elit. Faucibus senectus habitant aliquam; dis quis nisi. Per fames pellentesque fames convallis iaculis phasellus vitae aenean. Purus fames egestas eget litora varius commodo."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html#table-of-contents",
+    "href": "index.html#table-of-contents",
+    "title": "simple_quarto_website",
+    "section": "Table of Contents",
+    "text": "Table of Contents\n\nBasic Self Introduction\nMy Academic Interest\nMy Daily Life"
+  },
+  {
+    "objectID": "index.html#section-1-basic-self-introduction",
+    "href": "index.html#section-1-basic-self-introduction",
+    "title": "simple_quarto_website",
+    "section": "Section 1 Basic Self Introduction",
+    "text": "Section 1 Basic Self Introduction\nLorem ipsum odor amet, consectetuer adipiscing elit. Fusce ad augue suspendisse cubilia fames metus vulputate nisi. Pretium duis porttitor condimentum morbi libero. Dis hendrerit auctor pretium elementum nec cras torquent nam. In curabitur nascetur pharetra dapibus eu hendrerit. Facilisi montes nostra mauris arcu enim facilisi rutrum inceptos risus. Imperdiet taciti malesuada nostra, lectus est lacinia vehicula risus.\n\nSection 1.1 My Class\n\nDSAN5000: Data Science and Analytics\nDSAN5100: Prob Modeling/Stat Computing\n\n\n\nSection 1.2 My Timetable\n\n\n\nClass\nTime\n\n\n\n\nDSAN5000\nMonday 12:30 - 15:00\n\n\nDSAN5100\nWednesday 15:30 - 18:00\n\n\n\n\nI also take DSAN5400."
+  },
+  {
+    "objectID": "index.html#section-2-my-academic-interest",
+    "href": "index.html#section-2-my-academic-interest",
+    "title": "simple_quarto_website",
+    "section": "Section 2 My Academic Interest",
+    "text": "Section 2 My Academic Interest\nLorem ipsum odor amet, consectetuer adipiscing elit. Morbi rhoncus facilisi ante nascetur odio fermentum ultrices elit. Platea aliquam efficitur commodo eros mus felis diam pretium fusce. Volutpat posuere inceptos lectus mattis eleifend a potenti sollicitudin. Nullam dignissim fermentum tincidunt litora at sagittis congue euismod commodo. Nostra lacus sed pellentesque habitasse feugiat faucibus tempus mus. Euismod metus efficitur conubia, tortor tempor non. Fringilla rutrum curabitur bibendum cras bibendum ut et. Bibendum fusce dictum eleifend tortor est per dictumst. Habitant vivamus purus ante sed, at proin lacinia imperdiet elit.\n\nSection 2.1 Interest Fields\n\nInterest 1: Machine Learning\nInterest 2: Deep Learning\nInterest 3: Optimization\nInterest 4: Database\n\n1 2\nHere is a reference to a study of database (Hulo et al. 2006).\n\n\nSection 2.2 Math Equations Used for Research\nThe area of a circle : \\(A = \\pi r^2\\).\nMass–energy equivalence : \\[\nE = mc^2\n\\]"
+  },
+  {
+    "objectID": "index.html#section-3-my-daily-life",
+    "href": "index.html#section-3-my-daily-life",
+    "title": "simple_quarto_website",
+    "section": "Section 3 My Daily Life",
+    "text": "Section 3 My Daily Life\nLorem ipsum odor amet, consectetuer adipiscing elit. Felis et turpis urna gravida tempus, vulputate diam imperdiet. At mi at dignissim mollis; natoque interdum finibus primis.\n\nSection 3.1 My Hobbies\n\nTraveling: Singapore, Japan, Thailand, UK…\nPlaying Nintendo Switch: The Legend of Zelda…\n\nWatch the video3\n\n\nSection 3.2 Traveling Routes in Japan\nLorem ipsum odor amet, consectetuer adipiscing elit. Interdum maecenas est molestie condimentum platea viverra tincidunt scelerisque.\nLorem ipsum odor amet, consectetuer adipiscing elit.\n\n\n\n\n\ngraph TD;\n    Tokyo --&gt; Kamakura;\n    Tokyo --&gt; Fujiyama;\n    Tokyo --&gt; Kyoto;\n    Kyoto --&gt; Nara;\n    Kyoto --&gt; Osaka;"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "simple_quarto_website",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nhttps://images.app.goo.gl/MNeNFNnC2W74JeoNA↩︎\nhttps://images.app.goo.gl/DPbkgKZEvDhyERUs8↩︎\nhttps://www.pexels.com/video/an-old-temple-shrine-in-japan-visited-by-tourists-3177175/↩︎"
+  },
+  {
+    "objectID": "slides/slides.html#first-slide---python-plot",
+    "href": "slides/slides.html#first-slide---python-plot",
+    "title": "My Presentation Slides",
+    "section": "First Slide - Python Plot",
+    "text": "First Slide - Python Plot\nLorem ipsum odor amet, consectetuer adipiscing elit. Risus torquent lobortis malesuada convallis dis torquent habitant. Aenean nibh faucibus venenatis neque adipiscing dolor."
+  },
+  {
+    "objectID": "slides/slides.html#second-slide---images",
+    "href": "slides/slides.html#second-slide---images",
+    "title": "My Presentation Slides",
+    "section": "Second Slide - Images",
+    "text": "Second Slide - Images\nLorem ipsum odor amet, consectetuer adipiscing elit. Purus nulla hac sapien hendrerit duis convallis adipiscing mauris. Dignissim dis dui gravida sapien vulputate, metus quis eu."
+  },
+  {
+    "objectID": "slides/slides.html#third-slide---reference",
+    "href": "slides/slides.html#third-slide---reference",
+    "title": "My Presentation Slides",
+    "section": "Third Slide - Reference",
+    "text": "Third Slide - Reference\nLorem ipsum odor amet, consectetuer adipiscing elit. Ad hendrerit consectetur lacus semper parturient. Purus nec ac volutpat taciti congue.\nHere is a citation for reference (Hulo et al. 2006).\n\n\n\n\n\n\n\n\nHulo, Nicolas, Amos Bairoch, Virginie Bulliard, Lorenzo Cerutti, Edouard De Castro, Petra S Langendijk-Genevaux, Marco Pagni, and Christian JA Sigrist. 2006. “The PROSITE Database.” Nucleic Acids Research 34 (suppl_1): D227–30."
+  }
+]
