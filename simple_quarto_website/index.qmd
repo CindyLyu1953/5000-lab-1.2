@@ -25,14 +25,27 @@ Lorem ipsum odor amet, consectetuer adipiscing elit. Fusce ad augue suspendisse 
 
 1. **DSAN5000**: Data Science and Analytics
 2. **DSAN5100**: Prob Modeling/Stat Computing
+3. **DSAN5400**: Computational Ling Adv Python
 
 ###  Section 1.2 My Timetable
+
+:::: {.columns}
+::: {.column width="50%"}
+#### Weekday
+Go to class and study
+:::
+
+::: {.column width="50%"}
+#### Weekend
+Do homework and go out with friends
+:::
+::::
 
 | Class          | Time                                   |
 |----------------|----------------------------------------|
 | DSAN5000       | Monday 12:30 - 15:00                   |
+| DSAN5400       | Tuesday 12:30 - 15:00                  |
 | DSAN5100       | Wednesday 15:30 - 18:00                |
-> I also take DSAN5400.
 
 ## Section 2 My Academic Interest
 
@@ -78,12 +91,14 @@ Lorem ipsum odor amet, consectetuer adipiscing elit.
 
 ```{mermaid}
 graph TD;
-    Tokyo --> Kamakura;
-    Tokyo --> Fujiyama;
-    Tokyo --> Kyoto;
-    Kyoto --> Nara;
-    Kyoto --> Osaka;
+    A[Tokyo] --> B[Kamakura];
+    A[Tokyo] --> C[Fujiyama];
+    A[Tokyo] --> D(Kyoto);
+    D(Kyoto) --> E(Nara);
+    D(Kyoto) --> F(Osaka);
 ```
+
+> The hard-edge square indicates the city is in kanto; the round-edge square indicates the city is in kansai.
 
 [^1]: https://images.app.goo.gl/MNeNFNnC2W74JeoNA
 [^2]: https://images.app.goo.gl/DPbkgKZEvDhyERUs8
